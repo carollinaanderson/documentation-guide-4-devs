@@ -1,4 +1,4 @@
-Engineering Coding Best Practices — Index
+Engineering Coding + Ai Coding Agents Best Practices — Index
 
 Internal standards for teams coding with AI code-agent assistance. Read 10 before writing code, 20 before naming anything, 30 before your first PR, 40 before your first commit.
 
